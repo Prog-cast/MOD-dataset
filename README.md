@@ -76,7 +76,7 @@ After using the Interpolation method Heat Map representation
 
 The MODS dataset on GitHub provides a valuable resource for studying the complex syndrome of Multi-Organ Dysfunction Syndrome. By employing machine learning algorithms, we can gain insights into the prognosis of MODS and identify factors that contribute to its development. Using interpolation, logistic regression, and random forest algorithms has shown significant improvement in prognosis prediction accuracy. 
 
- ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/27f9720c-df95-4d7d-8470-764682e4e330)
+ ![image](https://github.com/Prog-cast/MOD-dataset/blob/2e7f3b2bef2306975d116347235c70a3f1a7f54a/summary.jpg)
 
 ## Conclusion
 
